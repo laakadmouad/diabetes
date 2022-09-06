@@ -1,11 +1,10 @@
 azureml-train-automl-runtime==1.44.0
 azureml-interpret==1.44.0
 azureml-defaults==1.44.0
+Flask
+matplotlib
 numpy
 pandas
-scikit-learn
-fbprophet
-holidays
-psutil
-pandas
+requests
+scikit_learn
 streamlit
