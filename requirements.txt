@@ -2,3 +2,10 @@ azureml-train-automl-runtime==1.44.0
 inference-schema
 azureml-interpret==1.44.0
 azureml-defaults==1.44.0
+Flask==2.1.2
+matplotlib==3.5.2
+numpy==1.23.0
+pandas==1.4.3
+requests==2.28.0
+scikit_learn==1.1.1
+streamlit==1.10.0
