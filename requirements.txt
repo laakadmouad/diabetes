@@ -1,4 +1,6 @@
 azureml-train-automl-runtime
+azureml-interpret
+azureml-defaults
 Flask
 matplotlib
 numpy
@@ -6,4 +8,3 @@ pandas
 requests
 scikit_learn
 streamlit
-
