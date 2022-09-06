@@ -1,3 +1,4 @@
+azureml-train-automl-runtime
 Flask
 matplotlib
 numpy
