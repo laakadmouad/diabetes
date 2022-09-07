@@ -1,7 +1,6 @@
 Flask
-matplotlib
+joblib
 numpy
 pandas
-requests
 scikit_learn
 streamlit
