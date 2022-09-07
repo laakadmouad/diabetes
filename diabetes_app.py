@@ -4,7 +4,6 @@ import pandas as pd
 import joblib
 import os
 from streamlit import sidebar
-from azureml import automl
 st.write("""
 # MSDE4 : Projet Azure prediction diabete
 ## by: LAAKAD Mouad 
