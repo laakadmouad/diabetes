@@ -1,6 +1,4 @@
-azureml-sdk
 azureml-automl-runtime
-azureml
 numpy==1.18.5
 pandas==1.1.5
 scikit-learn==0.22.1
