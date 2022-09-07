@@ -1,6 +1,9 @@
-azureml-train-automl-runtime==1.44.0
-numpy==1.18.5
-pandas==1.1.5
-scikit-learn==0.22.1
-Flask
-streamlit 
+azureml-train-automl-runtime
+Flask==2.1.2
+matplotlib==3.5.2
+numpy==1.23.0
+pandas==1.4.3
+requests==2.28.0
+scikit_learn==1.1.1
+streamlit==1.10.0
+
