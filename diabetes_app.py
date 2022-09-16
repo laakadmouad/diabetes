@@ -6,7 +6,7 @@ import os
 from streamlit import sidebar
 st.write("""
 # MSDE4 : Projet Azure prediction diabete
-## by: LAAKAD Mouad 
+## by: LAAKAD Mouad & Chrij Mohamed Amine 
 
 """)
 path=os.getcwd()
